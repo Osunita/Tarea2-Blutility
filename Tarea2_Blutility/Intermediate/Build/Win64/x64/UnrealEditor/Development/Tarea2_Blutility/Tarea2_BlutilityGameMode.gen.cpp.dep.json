@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\localrepository\\tarea2-blutility\\tarea2_blutility\\intermediate\\build\\win64\\unrealeditor\\inc\\tarea2_blutility\\uht\\tarea2_blutilitygamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\localrepository\\tarea2-blutility\\tarea2_blutility\\intermediate\\build\\win64\\x64\\tarea2_blutilityeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\localrepository\\tarea2-blutility\\tarea2_blutility\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\tarea2_blutility\\definitions.tarea2_blutility.h",
+            "d:\\unreal projects\\localrepository\\tarea2-blutility\\tarea2_blutility\\source\\tarea2_blutility\\tarea2_blutilitygamemode.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\unreal projects\\localrepository\\tarea2-blutility\\tarea2_blutility\\intermediate\\build\\win64\\unrealeditor\\inc\\tarea2_blutility\\uht\\tarea2_blutilitygamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

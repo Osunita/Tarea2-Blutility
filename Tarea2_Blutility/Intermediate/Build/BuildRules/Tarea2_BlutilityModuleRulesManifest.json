@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\LocalRepository\\Tarea2-Blutility\\Tarea2_Blutility\\Source\\Tarea2_Blutility\\Tarea2_Blutility.Build.cs",
+		"D:\\Unreal Projects\\LocalRepository\\Tarea2-Blutility\\Tarea2_Blutility\\Source\\Tarea2_Blutility.Target.cs",
+		"D:\\Unreal Projects\\LocalRepository\\Tarea2-Blutility\\Tarea2_Blutility\\Source\\Tarea2_BlutilityEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
