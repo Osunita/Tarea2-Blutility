@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Tarea2_Blutility",
+			"Path": "..\\Source\\Tarea2_Blutility.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Tarea2_BlutilityEditor",
+			"Path": "..\\Source\\Tarea2_BlutilityEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

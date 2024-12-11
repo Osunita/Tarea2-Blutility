@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tarea2_BlutilityModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c0cf6f85c259d78bb9f7e64408148b24c7de1ad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tarea2_BlutilityModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tarea2_BlutilityModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
